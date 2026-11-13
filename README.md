@@ -160,5 +160,5 @@ results = model.predict(
 
 **Muhammad Sameer Mustaqeem**
 
-[GitHub Profile](https://github.com/sameermustaqeem878-source)
+- GitHub: [sameermustaqeem878-source](https://github.com/sameermustaqeem878-source)
 - LinkedIn: [Muhammad Sameer Mustaqeem](https://www.linkedin.com/in/m-sameer-mustaqeem-b1a436317/)
